@@ -33,4 +33,9 @@ Through this project, I gained hands-on experience in working with Excel dataset
 ## Acknowledgment
 
 This dashboard was developed by following Mo Chen’s Excel portfolio project tutorial on YouTube.
+
+## Dashboard Preview
+
+![Coffee Sales Dashboard](excel%20dashboard.png)
+ 
  
